@@ -48,7 +48,7 @@ An xml file must named CustomClean.xml must be placed into the root directory of
 ### Using the extension  
 
 After the extension is installed, a new option will be placed under the 'Build' menu of the toolbar.   
-![toolbar](_media/toolbar.png)  
+![toolbar](_media/toolbar.PNG)  
 
 
 
